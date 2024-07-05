@@ -1,7 +1,7 @@
 {
   "name": "Mi WebApp",
   "version": "1.0.0",
-  "main": "src/app.js",
+  "main": "app.js",
   "scripts": {
     "start": "npx live-server src"
   },
